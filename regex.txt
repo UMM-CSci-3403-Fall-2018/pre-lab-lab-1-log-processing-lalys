@@ -2,10 +2,10 @@ Regex 0
 (\W*KK)(\W*muffins)(\W*Nic)(\W*donuts)(\W*Vincent)(\W*juice)
 
 Regex 1
-(
+(\W*I)(\W*am)
 
 
 Regex 3
-(
+(\W*Sandwich)
 
-
+Did not finish 
