@@ -1,6 +1,5 @@
 Regex 0
-
-/kk.*s\
+(\W*)
 
 Regex 1
 /
